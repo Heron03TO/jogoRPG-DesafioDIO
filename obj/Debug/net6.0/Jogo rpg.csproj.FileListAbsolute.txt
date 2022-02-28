@@ -1,0 +1,15 @@
+C:\Users\heron\Desktop\Jogo rpg\bin\Debug\net6.0\Jogo rpg.exe
+C:\Users\heron\Desktop\Jogo rpg\bin\Debug\net6.0\Jogo rpg.deps.json
+C:\Users\heron\Desktop\Jogo rpg\bin\Debug\net6.0\Jogo rpg.runtimeconfig.json
+C:\Users\heron\Desktop\Jogo rpg\bin\Debug\net6.0\Jogo rpg.dll
+C:\Users\heron\Desktop\Jogo rpg\bin\Debug\net6.0\Jogo rpg.pdb
+C:\Users\heron\Desktop\Jogo rpg\obj\Debug\net6.0\Jogo rpg.csproj.AssemblyReference.cache
+C:\Users\heron\Desktop\Jogo rpg\obj\Debug\net6.0\Jogo rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heron\Desktop\Jogo rpg\obj\Debug\net6.0\Jogo rpg.AssemblyInfoInputs.cache
+C:\Users\heron\Desktop\Jogo rpg\obj\Debug\net6.0\Jogo rpg.AssemblyInfo.cs
+C:\Users\heron\Desktop\Jogo rpg\obj\Debug\net6.0\Jogo rpg.csproj.CoreCompileInputs.cache
+C:\Users\heron\Desktop\Jogo rpg\obj\Debug\net6.0\Jogo rpg.dll
+C:\Users\heron\Desktop\Jogo rpg\obj\Debug\net6.0\refint\Jogo rpg.dll
+C:\Users\heron\Desktop\Jogo rpg\obj\Debug\net6.0\Jogo rpg.pdb
+C:\Users\heron\Desktop\Jogo rpg\obj\Debug\net6.0\Jogo rpg.genruntimeconfig.cache
+C:\Users\heron\Desktop\Jogo rpg\obj\Debug\net6.0\ref\Jogo rpg.dll
